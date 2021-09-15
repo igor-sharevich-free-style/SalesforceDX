@@ -15,9 +15,17 @@ coverage/
 .prettierignore
 .prettierrc
 
+#eslint
+.eslintignore
+
 # jest.config.js
 jest.config.js
 
+#.vscode
+.vscode
+
+# package.json
+package.json
 # Logs
 logs
 *.log
